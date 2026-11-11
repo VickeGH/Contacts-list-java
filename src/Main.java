@@ -33,13 +33,13 @@ public class Main {
     }
 
     void showMenu() {
-        IO.println("=========== Kontaktbok ===========");
-        IO.println("| 1. Visa kontakter              |");
-        IO.println("| 2. Lägg till ny kontakt        |");
-        IO.println("| 3. Redigera befintlig kontakt  |");
-        IO.println("| 4. Ta bort befintlig kontakt   |");
-        IO.println("| 5. Avsluta programmet          |");
-        IO.println("==================================");
+        IO.println("=========== Kontaktboken ===========");
+        IO.println("|| 1. Visa kontakter              ||");
+        IO.println("|| 2. Lägg till ny kontakt        ||");
+        IO.println("|| 3. Redigera befintlig kontakt  ||");
+        IO.println("|| 4. Ta bort befintlig kontakt   ||");
+        IO.println("|| 5. Avsluta programmet          ||");
+        IO.println("====================================");
     }
 
     void clearScreen() {
