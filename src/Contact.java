@@ -3,7 +3,7 @@ public class Contact {
     private String phone;
     private String email;
 
-    public Contact(String name, String phone) {
+    public Contact(String name, String phone, String email) {
         this.name = name;
         this.phone = phone;
         this.email = email;
